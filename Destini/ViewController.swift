@@ -119,7 +119,7 @@ class ViewController: UIViewController {
         startPage()
         topButton.isHidden = false
         bottomButton.isHidden = false
-        
+        tapCount = 0
         restartButton.isHidden = true
     }
     
